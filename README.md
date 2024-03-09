@@ -1,7 +1,7 @@
 
 # McSerwery.pl
 Serwery Minecraft Survival - https://mcserwery.pl/serwery/minecraft/tryb/Survival
-Ostatnia aktualizacja 2024-03-09 11:46
+Ostatnia aktualizacja 2024-03-09 11:47
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ⭐⭐ BLOKOWO.PL⭐ ꜱᴇʀᴡᴇʀ ꜱᴜʀᴠɪᴠᴀʟ 1.20.4 ⭐ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ!⭐ | 43/2000 | 37 |
