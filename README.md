@@ -1,7 +1,7 @@
 
 # Serwery Survival
 Dane pobrane z listy serwerów minecraft - https://mcserwery.pl/serwery/minecraft/tryb/Survival
-Ostatnia aktualizacja 2024-03-23 14:49
+Ostatnia aktualizacja 2024-03-23 15:49
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival 1.20.4 ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ | 0/0 | 39 |
@@ -11,9 +11,9 @@ Ostatnia aktualizacja 2024-03-23 14:49
 | 5 | 	[sv.icsv.pl](https://mcserwery.pl/serwery/minecraft/261/) | ;;; SV.ICSV.PL » Prosty serwer minecraft 1.8-1.20 ;;; Nowa edycja MegaDrop Survival Gildie Piatek 18  Survival  Drop  Gildie  MegaDrop  PvP  EasyHC  Nowa edycja | 0/0 | 5 |
 | 6 | 	[byniumc.pl](https://mcserwery.pl/serwery/minecraft/157/) | ⋆ BYNIU! wbijaj na serwer KretMC.pl ⋆ BYNIU! wbijaj na serwer KretMC.pl | 0/0 | 4 |
 | 7 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | BFSMC.PL  Survival, SkyBlock, Duels  1.20.4 A my działamy na wersji 1.20.4 | 0/0 | 3 |
-| 8 | 	[realcraft.pl](https://mcserwery.pl/serwery/minecraft/63/) | >> RealCraft.pl >> Najlepszy FreeBuild w Polsce! Konkursy i eventy • Questy • Działki • WBIJAJ! | 0/0 | 2 |
-| 9 | 	[mc-vision.pl](https://mcserwery.pl/serwery/minecraft/211/) |   mc-vision.pl  Darmowy VIP /supervip   Nowa edycja Survival 1.20.2  | 0/0 | 2 |
-| 10 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl 1.8 - 1.20 Marcowe Skrzynie i Klucze w sklepie! | 0/0 | 1 |
+| 8 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl 1.8 - 1.20 Marcowe Skrzynie i Klucze w sklepie! | 0/0 | 2 |
+| 9 | 	[realcraft.pl](https://mcserwery.pl/serwery/minecraft/63/) | >> RealCraft.pl >> Najlepszy FreeBuild w Polsce! Konkursy i eventy • Questy • Działki • WBIJAJ! | 0/0 | 2 |
+| 10 | 	[mc-vision.pl](https://mcserwery.pl/serwery/minecraft/211/) |   mc-vision.pl  Darmowy VIP /supervip   Nowa edycja Survival 1.20.2  | 0/0 | 2 |
 | 11 | 	[tabmc.pl](https://mcserwery.pl/serwery/minecraft/3/) | ◈ TabMC.pl × Strona WWW: TabMC.pl  ◈ Tryb MegaDrop 1.16.5+ juz WYSTARTOWAL. » Graczy: {ONLINE_PLAYERS}/2000 « | 0/0 | 1 |
 | 12 | 	[cubehard.net](https://mcserwery.pl/serwery/minecraft/10/) | CUBE┌ ɪɴɴᴏᴡᴀᴄʏᴊɴʏ ꜱᴇʀᴡᴇʀ (1.16 - 1.20.1) HARD└ Wbijaj się ponakur#@ać! | 0/0 | 1 |
 | 13 | 	[unitedcraft.pl](https://mcserwery.pl/serwery/minecraft/11/) | UnitedCraft.pl ¦ SURVIVAL & DUELS ¦ 1.20.4 ❄ Zadania › Ekonomia › Działki › Eventy › Ryby ❄ | 0/0 | 1 |
