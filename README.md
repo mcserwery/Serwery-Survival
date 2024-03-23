@@ -1,7 +1,7 @@
 
 # Serwery Survival
 Dane pobrane z listy serwerów minecraft - https://mcserwery.pl/serwery/minecraft/tryb/Survival
-Ostatnia aktualizacja 2024-03-23 15:49
+Ostatnia aktualizacja 2024-03-23 16:49
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival 1.20.4 ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ | 0/0 | 39 |
