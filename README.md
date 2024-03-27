@@ -1,7 +1,7 @@
 
 # Serwery Survival
 Dane pobrane z listy serwerów minecraft - https://mcserwery.pl/serwery/minecraft/tryb/Survival
-Ostatnia aktualizacja 2024-03-27 18:49
+Ostatnia aktualizacja 2024-03-27 19:49
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival 1.20.4 ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ | 100/2000 | 42 |
@@ -29,7 +29,7 @@ Ostatnia aktualizacja 2024-03-27 18:49
 | 23 | 	[wywrotkamc.pl](https://mcserwery.pl/serwery/minecraft/6/) | WywrotkaMC.PL [1.8 - 1.20+] Dziękujemy wam za ten Sezon, wracamy za niedługo! | 0/1500 | 0 |
 | 24 | 	[megaxcore.pl](https://mcserwery.pl/serwery/minecraft/7/) | MEGAXCORE.PL 7 dzien edycji Survival+Dzialki :) Odbierz SuperVIPa za darmo! Wpisz: /nagroda  Survival wystartowal! | 270/2000 | 0 |
 | 25 | 	[sky-land.pl](https://mcserwery.pl/serwery/minecraft/8/) | >> Sky-Land.pl Network [1.7 - 1.12] << | 15/2024 | 0 |
-| 26 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | 【╦╤─ INKMC.PL > Sklep: InkMC.pl  ─╤╦【 ᴅᴏᴅᴀʟɪśᴍʏ ʟɪᴍɪᴛᴏᴡᴀɴᴀ ʀᴀɴɢᴇ ᴢᴀᴊąᴄᴢᴇᴋ, ᴡᴡᴡ.ɪɴᴋᴍᴄ.ᴘʟ | 1147/1148 | 0 |
+| 26 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | 【╦╤─ INKMC.PL > Sklep: InkMC.pl  ─╤╦【 ᴅᴏᴅᴀʟɪśᴍʏ ʟɪᴍɪᴛᴏᴡᴀɴᴀ ʀᴀɴɢᴇ ᴢᴀᴊąᴄᴢᴇᴋ, ᴡᴡᴡ.ɪɴᴋᴍᴄ.ᴘʟ | 1162/1163 | 0 |
 | 27 | 	[dragon-survival.eu](https://mcserwery.pl/serwery/minecraft/19/) |  DS » Start nowej edycji: DZIS 18:00 ❤ Duzo eventow! Mega zmiany! Edycja wielkanocna! | -1/500 | 0 |
 | 28 | 	[jesion.pro](https://mcserwery.pl/serwery/minecraft/20/) | [jesion.pro] survival 1.20.1 !! bez p2w & fake slotów/graczy !! | 0/1 | 0 |
 | 29 | 	[minestar.pl](https://mcserwery.pl/serwery/minecraft/23/) | × MINESTAR × Twoje Imperium Gier! ꜱᴘʀᴀᴡᴅᴢ ɴᴀᴊɴᴏᴡꜱᴢᴀ ᴀᴋᴛᴜᴀʟɪᴢᴀᴄᴊᴇ ꜱᴋʏᴘᴠᴘ | 1927/1 | 0 |
