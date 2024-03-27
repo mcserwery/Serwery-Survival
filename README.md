@@ -1,16 +1,16 @@
 
 # Serwery Survival
 Dane pobrane z listy serwerów minecraft - https://mcserwery.pl/serwery/minecraft/tryb/Survival
-Ostatnia aktualizacja 2024-03-27 01:49
+Ostatnia aktualizacja 2024-03-27 02:49
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival 1.20.4 ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ | 13/2000 | 42 |
 | 2 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ꜱᴜʀᴠɪᴠᴀʟ 1.20.4 ᴊᴜᴢ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ! | 403/2000 | 123 |
 | 3 | 	[keycore.pl](https://mcserwery.pl/serwery/minecraft/252/) | , MC.KEYCORE.PL » Strona: keycore.pl 1.8-1.20 MegaDrop OneBlock Dzialki ChestPvP Survival Parkour Survival Gildie MEGAENCHANT SKYBLOCK FREEBUILD CREATIVE PVP MI | 27/100 | 32 |
 | 4 | 	[keycraft.pl](https://mcserwery.pl/serwery/minecraft/255/) | KEYCRAFT.PL » Twoje centrum zabawy! 1.8-1.20.4  MegaDrop  OneBlock  ChestPvP  Survival  Parkour  SkyBlock PvP  Cuboid  Gildie  Ekonomia | 294/0 | 30 |
-| 5 | 	[sv.icsv.pl](https://mcserwery.pl/serwery/minecraft/261/) | ;;; SV.MCKC.PL » Twoj serwer minecraft 1.8.8 1.20.4 ;;;  Survival  Drop  Gildie  MegaDrop  PvP  EasyHC  Nowa edycja | 851/2000 | 5 |
+| 5 | 	[sv.icsv.pl](https://mcserwery.pl/serwery/minecraft/261/) | ;;; SV.MCKC.PL » Twoj serwer minecraft 1.8.8 1.20.4 ;;;  Survival  Drop  Gildie  MegaDrop  PvP  EasyHC  Nowa edycja | 449/2000 | 5 |
 | 6 | 	[byniumc.pl](https://mcserwery.pl/serwery/minecraft/157/) | ⋆ BYNIU! wbijaj na serwer KretMC.pl ⋆ BYNIU! wbijaj na serwer KretMC.pl | 0/500 | 4 |
-| 7 | 	[hc.mckc.pl](https://mcserwery.pl/serwery/minecraft/264/) |  HC.MCKC.PL × Super serwery minecraft! 1.8-1.20 SURVIVAL ONEBLOCK FREEBUILD CHESTPVP MEGADROP PARKOUR GILDIE SKYWARS BEDWARS CREATIVE FREEBUILD EASYHC TNTRUN 1v | 2610/0 | 4 |
+| 7 | 	[hc.mckc.pl](https://mcserwery.pl/serwery/minecraft/264/) |  HC.MCKC.PL × Super serwery minecraft! 1.8-1.20 SURVIVAL ONEBLOCK FREEBUILD CHESTPVP MEGADROP PARKOUR GILDIE SKYWARS BEDWARS CREATIVE FREEBUILD EASYHC TNTRUN 1v | 2268/0 | 4 |
 | 8 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | BFSMC.PL  Survival, SkyBlock, Duels  1.20.4 A my działamy na wersji 1.20.4 | 61/500 | 3 |
 | 9 | 	[realcraft.pl](https://mcserwery.pl/serwery/minecraft/63/) | RealCraft.pl   Najlepszy FreeBuild w Polsce! Konkursy i eventy " Questy " Dzialki " WBIJAJ! | 20/777 | 2 |
 | 10 | 	[mc-vision.pl](https://mcserwery.pl/serwery/minecraft/211/) |   mc-vision.pl  Darmowy VIP /supervip   Nowa edycja Survival 1.20.2  | 2/2024 | 2 |
@@ -24,7 +24,7 @@ Ostatnia aktualizacja 2024-03-27 01:49
 | 18 | 	[KrystalMC.pl](https://mcserwery.pl/serwery/minecraft/202/) | KrystalMC.pl [1.20-1.16]  ⛏ Survival 1.20.4 ⛏  ✿ EVENT WIELKANOC ✿ | 10/500 | 1 |
 | 19 | 	[geodrop.pl](https://mcserwery.pl/serwery/minecraft/217/) | x GeoDrop.pl Serwer wystartował! Aktualnie organizowany jest event świąteczna wyspa o hajs! | 0/30 | 1 |
 | 20 | 	[cozycafe.pl](https://mcserwery.pl/serwery/minecraft/250/) | AxolotlMC ❤ Survival bez griefu i resetów map.Vanilla like survival bez zbędnych dodatków. ✨ | 0/20 | 1 |
-| 21 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | ɴᴇᴛʜᴇʀꜱᴛᴏʀᴍ ツ ᴅɪꜱᴄᴏʀᴅ: ᴡᴡᴡ.ɴꜱꜱᴠ.ᴘʟ/ᴅɪꜱᴄᴏʀᴅ × Bed Wars: reset + nowości w piątek o 20:00! | 381/385 | 0 |
+| 21 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | ɴᴇᴛʜᴇʀꜱᴛᴏʀᴍ ツ ᴅɪꜱᴄᴏʀᴅ: ᴡᴡᴡ.ɴꜱꜱᴠ.ᴘʟ/ᴅɪꜱᴄᴏʀᴅ × PvP: Nowa edycja już w piątek o 18:00! | 274/278 | 0 |
 | 22 | 	[wywrotkamc.pl](https://mcserwery.pl/serwery/minecraft/6/) | WywrotkaMC.PL [1.8 - 1.20+] Dziękujemy wam za ten Sezon, wracamy za niedługo! | 0/1500 | 0 |
 | 23 | 	[megaxcore.pl](https://mcserwery.pl/serwery/minecraft/7/) | MEGAXCORE.PL 7 dzien edycji Survival+Dzialki :) Odbierz SuperVIPa za darmo! Wpisz: /nagroda  Survival wystartowal! | 235/2000 | 0 |
 | 24 | 	[sky-land.pl](https://mcserwery.pl/serwery/minecraft/8/) | >> Sky-Land.pl Network [1.7 - 1.12] << | 4/2024 | 0 |
