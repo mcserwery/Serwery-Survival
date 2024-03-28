@@ -1,7 +1,7 @@
 
 # Serwery Survival
 Dane pobrane z listy serwerów minecraft - https://mcserwery.pl/serwery/minecraft/tryb/Survival
-Ostatnia aktualizacja 2024-03-28 11:49
+Ostatnia aktualizacja 2024-03-28 12:49
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival 1.20.4 ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ | 90/2000 | 42 |
@@ -29,8 +29,8 @@ Ostatnia aktualizacja 2024-03-28 11:49
 | 23 | 	[wywrotkamc.pl](https://mcserwery.pl/serwery/minecraft/6/) | WywrotkaMC.PL [1.8 - 1.20+] Dziękujemy wam za ten Sezon, wracamy za niedługo! | 0/1500 | 0 |
 | 24 | 	[megaxcore.pl](https://mcserwery.pl/serwery/minecraft/7/) | MEGAXCORE.PL 7 dzien edycji Survival+Dzialki :) Odbierz SuperVIPa za darmo! Wpisz: /nagroda  Survival wystartowal! | 271/2000 | 0 |
 | 25 | 	[sky-land.pl](https://mcserwery.pl/serwery/minecraft/8/) | >> Sky-Land.pl Network [1.7 - 1.12] << | 9/2024 | 0 |
-| 26 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | 【╦╤─ INKMC.PL > Sklep: InkMC.pl  ─╤╦【 ᴅᴏᴅᴀʟɪśᴍʏ ʟɪᴍɪᴛᴏᴡᴀɴᴀ ʀᴀɴɢᴇ ᴢᴀᴊąᴄᴢᴇᴋ, ᴡᴡᴡ.ɪɴᴋᴍᴄ.ᴘʟ | 1164/1165 | 0 |
+| 26 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | 【╦╤─ INKMC.PL > Sklep: InkMC.pl  ─╤╦【 ᴅᴏᴅᴀʟɪśᴍʏ ʟɪᴍɪᴛᴏᴡᴀɴᴀ ʀᴀɴɢᴇ ᴢᴀᴊąᴄᴢᴇᴋ, ᴡᴡᴡ.ɪɴᴋᴍᴄ.ᴘʟ | 1218/1219 | 0 |
 | 27 | 	[dragon-survival.eu](https://mcserwery.pl/serwery/minecraft/19/) |  DS » Wystartowalismy! Dolacz sie juz teraz! ✔ Kapliczki do 24:00! Teparki od 22:00! Jutro end! | -1/500 | 0 |
 | 28 | 	[jesion.pro](https://mcserwery.pl/serwery/minecraft/20/) | [jesion.pro] survival 1.20.1 !! bez p2w & fake slotów/graczy !! | 0/1 | 0 |
-| 29 | 	[minestar.pl](https://mcserwery.pl/serwery/minecraft/23/) | × MINESTAR × Twoje Imperium Gier! ꜱᴘʀᴀᴡᴅᴢ ɴᴀᴊɴᴏᴡꜱᴢᴀ ᴀᴋᴛᴜᴀʟɪᴢᴀᴄᴊᴇ ꜱᴋʏᴘᴠᴘ | 2016/1 | 0 |
+| 29 | 	[minestar.pl](https://mcserwery.pl/serwery/minecraft/23/) | × MINESTAR × Twoje Imperium Gier! ꜱᴘʀᴀᴡᴅᴢ ɴᴀᴊɴᴏᴡꜱᴢᴀ ᴀᴋᴛᴜᴀʟɪᴢᴀᴄᴊᴇ ꜱᴋʏᴘᴠᴘ | 2127/1 | 0 |
 | 30 | 	[craftplay.pl](https://mcserwery.pl/serwery/minecraft/25/) | CraftPlay.pl :: Sklep: CraftPlay.pl Start SV + Gildie juz dzisiaj o godz. 18:00! | 2491/5000 | 0 |
